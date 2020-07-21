@@ -92,7 +92,7 @@
     "@fortawesome/fontawesome-free": "5.11.2",
     "babel-eslint": "10.0.3",
     "chai": "4.2.0",
-    "codecov": "3.6.1",
+    "codecov": "3.7.1",
     "enzyme-adapter-react-16": "1.15.2",
     "enzyme": "3.11.0",
     "eslint-config-standard": "14.1.0",
